@@ -1,1 +1,8 @@
-
+pip install:
+- anthropic          # Claude API
+- wikipedia-api      # Wikipedia searches
+- requests           # HTTP calls
+- flask              # Web dashboard
+- pyttsx3            # Text-to-speech
+- schedule           # Task scheduling (proactive alerts)
+- python-dotenv      # Environment variables
